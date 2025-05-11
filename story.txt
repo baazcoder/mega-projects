@@ -1,0 +1,5 @@
+One <time_of_day>, a <adjective> <animal> found a <noun> in the <place>. It was <adverb> <verb>-ing and smelled like <noun>!
+
+"<exclamation>!" said the <animal>. "This is the most <adjective> thing I’ve ever seen!"
+
+So, the <animal> picked it up and <verb> all the way home. The end.
